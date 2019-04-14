@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555082354 source:c:\users\dayane\desktop\scripts c\jogo_da_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555199289 source:c:\users\user\documents\jogo_da_velha[]\jogo_da_velha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
