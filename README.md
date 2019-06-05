@@ -2,7 +2,7 @@
 Jogo da Velha desenvolvido em linguagem C
  
    Só leia isto se realmente estiver interessado no funcionamento do jogo/código fonte.
-Explicarei o "funcionamento" do código, ou pelo menos o funcionamento das partes mais importantes, caso tenha alguma dúvida enquanto estiver lendo o código-fonte, você pode ler os comentários(que são uma forma menos detalhada de explicar o funcionamento), aqui terá uma explicação mais detalhada de tudo. Vamos lá!
+Explicarei o "funcionamento" do código, ou pelo menos o funcionamento das partes mais importantes, caso tenha alguma dúvida enquanto estiver lendo o código-fonte, você pode ler os comentários(que são uma forma menos detalhada de explicar o funcionamento), aqui terá uma explicação mais detalhada de tudo(ou quase tudo hehe). Vamos lá!
 
 # VÁRIAVEIS IMPORTANTES
 Primeiramente, explicarei quais são as "váriaveis" importantes, para que você entenda como funcionam e qual o seu papel no programa.
